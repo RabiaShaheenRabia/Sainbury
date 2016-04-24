@@ -1,0 +1,6 @@
+com\sainsbury\fruits\ripe_fruits\Product.class
+com\sainsbury\fruits\ripe_fruits\TotalPricePerUnit.class
+com\sainsbury\fruits\ripe_fruits\Controller.class
+com\sainsbury\fruits\ripe_fruits\JSONFileGenerator.class
+com\sainsbury\fruits\ripe_fruits\HTMLProcessor.class
+com\sainsbury\fruits\ripe_fruits\Process.class
